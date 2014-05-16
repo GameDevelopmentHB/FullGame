@@ -44,32 +44,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\Documents\GitHub\Design\Level1.cs">
+    <Compile Include="Level1.cs">
       <SubType>Form</SubType>
-      <Link>Level1.cs</Link>
     </Compile>
-    <Compile Include="..\..\..\..\..\Documents\GitHub\Design\Level1.Designer.cs">
+    <Compile Include="Level1.Designer.cs">
       <DependentUpon>Level1.cs</DependentUpon>
-      <Link>Level1.Designer.cs</Link>
     </Compile>
-    <Compile Include="..\..\..\..\..\Documents\GitHub\Design\Level2.cs">
+    <Compile Include="Level2.cs">
       <SubType>Form</SubType>
-      <Link>Level2.cs</Link>
     </Compile>
-    <Compile Include="..\..\..\..\..\Documents\GitHub\Design\Level2.Designer.cs">
+    <Compile Include="Level2.Designer.cs">
       <DependentUpon>Level2.cs</DependentUpon>
-      <Link>Level2.Designer.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="..\..\..\..\..\Documents\GitHub\Design\Level1.resx">
-      <DependentUpon>Level1.cs</DependentUpon>
-      <Link>Level1.resx</Link>
-    </EmbeddedResource>
-    <EmbeddedResource Include="..\..\..\..\..\Documents\GitHub\Design\Level2.resx">
-      <DependentUpon>Level2.cs</DependentUpon>
-      <Link>Level2.resx</Link>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

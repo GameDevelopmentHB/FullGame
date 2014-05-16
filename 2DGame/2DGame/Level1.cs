@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _2DGame
 {
-    public partial class Form1 : Form
+    public partial class Level1 : Form
     {
-        public Form1()
+        public Level1()
         {
             InitializeComponent();
         }
