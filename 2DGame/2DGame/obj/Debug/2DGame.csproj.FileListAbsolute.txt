@@ -1,0 +1,2 @@
+C:\Users\Brian\Desktop\Periode 4 apo\Eigen dingen school\2DGame\2DGame\bin\Debug\2DGame.exe.config
+C:\Users\Brian\Documents\GitHub\FullGame\2DGame\2DGame\bin\Debug\2DGame.exe.config
