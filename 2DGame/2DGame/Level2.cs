@@ -16,5 +16,10 @@ namespace _2DGame
         {
             InitializeComponent();
         }
+
+        private void Level2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

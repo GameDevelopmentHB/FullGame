@@ -1,2 +1,11 @@
 C:\Users\Brian\Desktop\Periode 4 apo\Eigen dingen school\2DGame\2DGame\bin\Debug\2DGame.exe.config
 C:\Users\Brian\Documents\GitHub\FullGame\2DGame\2DGame\bin\Debug\2DGame.exe.config
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\bin\Debug\2DGame.exe.config
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\2DGame.csprojResolveAssemblyReference.cache
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\_2DGame.Level2.resources
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\_2DGame.Properties.Resources.resources
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\2DGame.csproj.GenerateResource.Cache
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\bin\Debug\2DGame.exe
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\bin\Debug\2DGame.pdb
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\2DGame.exe
+C:\Users\henk\Documents\GitHub\FullGame\2DGame\2DGame\obj\Debug\2DGame.pdb
